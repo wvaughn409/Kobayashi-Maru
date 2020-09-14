@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<Scene width="800" height="800">
+<Layer alias = "bottom">
+<PlacedGraphic x = "0" y = "0">
+<VectorGraphic closed = "true">
+<Stroke tip = "slash" size = "7" color = "FF0000" />
+<Point x = "100" y = "500" />
+<Point x = "100" y = "100" />
+<Point x = "500" y = "600" />
+</VectorGraphic>
+</PlacedGraphic>
+<PlacedGraphic x = "400" y = "300">
+<VectorGraphic closed = "true">
+<Stroke tip = "square" size = "5" color = "00FF00" />
+<Point x = "0" y = "0" />
+<Point x = "0" y = "100" />
+<Point x = "100" y = "100" />
+<Point x = "100" y = "0" />
+</VectorGraphic>
+</PlacedGraphic>
+</Layer>
+<Layer alias = "top">
+<PlacedGraphic x = "250" y = "250">
+<VectorGraphic closed = "false">
+<Stroke tip = "square" size = "3" color = "0000FF" />
+<Point x = "0" y = "0" />
+<Point x = "0" y = "100" />
+<Point x = "100" y = "100" />
+<Point x = "100" y = "0" />
+</VectorGraphic>
+</PlacedGraphic>
+</Layer>
+</Scene>
+</Root>

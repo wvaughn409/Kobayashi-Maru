@@ -1,0 +1,2 @@
+E:\ImageReader\Kobayashi Maru\Debug\Kobayashi Maru.exe
+E:\ImageReader\Kobayashi Maru\Debug\Kobayashi Maru.pdb

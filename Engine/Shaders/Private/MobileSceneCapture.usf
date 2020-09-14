@@ -1,0 +1,49 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+/*=============================================================================
+	Decode32bppHDR.usf: Decode 32bpp HDR encoding
+=============================================================================*/
+
+#include "Common.ush"
+#include "SceneTexturesCommon.ush"
+
+float2 InvTexSize;
+
+void MainCopyVS(
+	float2 InPosition	: ATTRIBUTE0,
+	float2 InUV			: ATTRIBUTE1,
+	out FScreenVertexOutput Output
+	)
+{
+	float2 UVs = 0;
+	DrawRectangle( float4( InPosition, 0, 1 ), InUV, Output.Position, UVs);
+	// float2 -> half2
+	Output.UV = UVs;
+}
+
+
+Texture2D InTexture;
+SamplerState InTextureSampler;
+
+void MainCopyPS(
+	FScreenVertexOutput Input,
+	out float4 OutColor : SV_Target0
+	)
+{
+    float4 SceneColor = Texture2DSample(InTexture, InTextureSampler, Input.UV);
+	OutColor = SceneColor;
+	
+	float SceneW = SceneColor.a;
+
+#if SOURCE_MODE_SCENE_COLOR_AND_OPACITY
+	// Put inverse opacity in alpha channel. 
+	// opaque geometry writes scene depth to Alpha, if nothing was rendered Alpha will stay == 1.0
+	OutColor.a = (SceneW == 1.0 ? 1.0f : 0.0f);
+#elif SOURCE_MODE_SCENE_COLOR_NO_ALPHA
+	OutColor.a = 0;
+#elif SOURCE_MODE_SCENE_COLOR_SCENE_DEPTH
+	OutColor.a = SceneW;
+#elif SOURCE_MODE_SCENE_DEPTH
+	OutColor.r = float4(SceneW,0,0,0);
+#endif
+}

@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "UnrealTinyXml",
+	"Description": "Tinxml2 intergration for unreal engine 4.",
+	"Category": "Marketplace",
+	"CreatedBy": "luochuanyuewu / JinSheng Liu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5fc2be0e0f4e4bd49f7013f0541132be",
+	"SupportURL": "https://discord.gg/xMRXAB2",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UnrealTinyXml",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "TinyXml",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}
