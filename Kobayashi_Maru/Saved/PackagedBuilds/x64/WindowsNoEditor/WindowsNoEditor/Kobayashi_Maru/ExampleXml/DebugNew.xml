@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Element1 IsVR="true" Name="Kinson"/>
+    <Element2>
+        <ChineseText>中文文字</ChineseText>
+        <Boy Name="Bob" Age="20" Married="false"/>
+    </Element2>
+</Root>

@@ -1,0 +1,311 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\BuildPatchServices\Definitions.BuildPatchServices.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFeatureLevel.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchFeatureLevel.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFileConstructor.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchFileConstructor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchProgress.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Controllable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchManifest.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildManifest.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ChunkData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/SpeedRecorder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchInstall.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\IBuildManifestSet.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchSettings.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchDelta.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchVerify.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesPrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/StatsCollector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/FileSystem.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Async/Async.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Async/Future.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkSource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkReferenceTracker.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerError.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerAnalytics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchUtil.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchGeneration.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchGeneration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildPatchServicesModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IPatchDataEnumeration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchInstaller.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/HttpManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/AsyncHelpers.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Platform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/ProcessTimer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/RingBuffer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockStructure.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockRange.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DataScanner.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/CloudEnumeration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DeltaEnumeration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/BuildStreamer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Factory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/FileSpan.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/CloudChunkSource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadConnectionCount.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ManifestBuilder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/FileAttributesParser.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkWriter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkMatchProcessor.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchHash.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstaller.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/ChunkDataSizeProvider.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/DataSizeProvider.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DiskChunkStore.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkStore.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MemoryChunkStore.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkEvictionPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadService.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkDbChunkSource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallChunkSource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChainedChunkSource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Verifier.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/FileAttribution.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Prerequisites.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MachineConfig.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MessagePump.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/OptimisedDelta.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/MemoryChunkStoreStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DiskChunkStoreStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DownloadServiceStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/ChunkDbChunkSourceStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/InstallChunkSourceStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/CloudChunkSourceStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileConstructorStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/VerifierStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileOperationTracker.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifest.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifestSet.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchMergeManifests.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchMergeManifests.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchProgress.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesModule.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AES.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/App.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\HttpManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/Online/HTTP/Private/IHttpThreadedRequest.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/HttpRequestImpl.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\HTTP\Public\HttpPackage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Compactify/PatchDataCompactifier.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Diffing/DiffManifests.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Enumeration/PatchDataEnumeration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDeltaOptimiser.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/PackageChunkData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/BuildStatistics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchVerifyChunkData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchServicesSingleton.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesSingleton.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchSettings.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchState.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchUtil.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchVerifyChunkData.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDatabaseWriter.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/ChunkDataSizeProvider.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/FileSystem.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/HttpManager.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/SpeedRecorder.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/StatsCollector.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Compactify/PatchDataCompactifier.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Core/BlockStructure.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ChunkData.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestData.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestUObject.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\BuildPatchServices\ManifestUObject.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h

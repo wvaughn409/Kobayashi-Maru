@@ -1,0 +1,4 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\SandboxFile\Definitions.SandboxFile.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SandboxFile\Public\IPlatformFileSandboxWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileModule.h

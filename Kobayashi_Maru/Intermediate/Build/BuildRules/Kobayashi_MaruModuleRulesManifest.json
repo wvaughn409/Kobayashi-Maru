@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Kobayashi-Maru\\Kobayashi_Maru\\Source\\Kobayashi_Maru\\Kobayashi_Maru.Build.cs",
+		"E:\\Kobayashi-Maru\\Kobayashi_Maru\\Source\\Kobayashi_Maru.Target.cs",
+		"E:\\Kobayashi-Maru\\Kobayashi_Maru\\Source\\Kobayashi_MaruEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

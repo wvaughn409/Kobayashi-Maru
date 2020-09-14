@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Kobayashi_Maru",
+			"Path": "E:\\Kobayashi_Maru\\Source\\Kobayashi_Maru.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Kobayashi_MaruEditor",
+			"Path": "E:\\Kobayashi_Maru\\Source\\Kobayashi_MaruEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

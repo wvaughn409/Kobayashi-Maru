@@ -1,0 +1,3 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\Advertising\Definitions.Advertising.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Advertising\Advertising\Public\Advertising.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Advertising\Advertising\Public\Interfaces/IAdvertisingProvider.h

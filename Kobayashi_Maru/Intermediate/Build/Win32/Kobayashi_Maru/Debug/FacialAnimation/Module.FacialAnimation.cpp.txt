@@ -1,0 +1,14 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\FacialAnimation\Definitions.FacialAnimation.h
+E:/Kobayashi-Maru/Engine/Plugins/Editor/FacialAnimation/Source/FacialAnimation/Private/AudioCurveSourceComponent.cpp
+E:\Kobayashi-Maru\Engine\Plugins\Editor\FacialAnimation\Source\FacialAnimation\Public\AudioCurveSourceComponent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\AudioComponent.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Animation/CurveSourceInterface.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\CurveSourceInterface.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\FacialAnimation\AudioCurveSourceComponent.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\SimpleCurve.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\CurveTable.generated.h
+E:/Kobayashi-Maru/Engine/Plugins/Editor/FacialAnimation/Source/FacialAnimation/Private/FacialAnimationModule.cpp
+E:\Kobayashi-Maru\Engine\Plugins\Editor\FacialAnimation\Source\FacialAnimation\Private\FacialAnimationModule.h

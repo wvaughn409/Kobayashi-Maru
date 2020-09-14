@@ -1,0 +1,354 @@
+E:/Kobayashi-Maru/Kobayashi_Maru/Intermediate/Build/Win32/Kobayashi_Maru/Debug/SteamVRInputDevice/PCH.SteamVRInputDevice.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVRInputDevice/Public/ISteamVRInputDeviceModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Build.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\concurrencysal.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\new
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\yvals_core.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vadefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\exception
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_new_debug.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_new.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\use_ansi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\type_traits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xstddef
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xtr1common
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\limits.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\initializer_list
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\zmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\mm3dnow.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\stdint.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Models.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Array.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Function.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Less.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Interval.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Color.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Set.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Map.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/TypeWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Axis.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Edge.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/PendingVersions.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Plane.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Range.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Box.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Quat.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float32.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float16.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Transform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Ray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\InputDevice\Public\IInputDeviceModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Features\IModularFeature.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\InputDevice\Public\IInputDevice.h

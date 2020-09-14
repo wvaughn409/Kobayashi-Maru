@@ -1,0 +1,441 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\SteamVR\Definitions.SteamVR.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRAssetManager.cpp
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRAssetManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRSystemAssets.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Public\ISteamVRPlugin.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRHMD.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplay.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\XRTrackingSystemBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\AugmentedReality\Public\ARSupportInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\AugmentedReality\Public\ARTypes.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\AugmentedReality\ARTypes.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\AugmentedReality\Public\ARSessionConfig.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\AugmentedReality\Public\ARTrackable.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\AugmentedReality\ARTrackable.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\AugmentedReality\ARSessionConfig.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\AugmentedReality\Public\ARTextures.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\TextureCube.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\AugmentedReality\ARTextures.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultSpectatorScreenController.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\ISpectatorScreenController.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRFunctionLibrary.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SteamVR\SteamVRFunctionLibrary.generated.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRSplash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\StereoLayerShapes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\StereoLayerManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRLoadingScreen.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderTargetManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\StereoRenderTargetManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\XRRenderBridge.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\XRSwapChain.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplayVulkanExtensions.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLDrv.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/OpenGLDrv/Private/Windows/OpenGLWindows.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\OpenGL\GL/glcorearb.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\OpenGL\GL/glext.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\OpenGL\GL/wglext.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL4.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL3.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGL.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLUtil.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\OpenGLDrv\Public\OpenGLShaderResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\ShaderPipelineCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RHI\Public\PipelineFileCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRChaperoneComponent.cpp
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRChaperoneComponent.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SteamVR\SteamVRChaperoneComponent.generated.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRPrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/Engine/Public/ScreenRendering.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRFunctionLibrary.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRHMD.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\HardwareInfo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\RendererPrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\PostProcessParameters.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ShaderComplexityRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DebugViewModeRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\DebugViewModeInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneRenderTargets.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PostProcess\../VT/VirtualTextureFeedback.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore/Public/RenderTargetPool.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ScenePrivateBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\LightSceneInfo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SceneRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DistortionRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HeightfieldLighting.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SkyAtmosphereRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphDefinitions.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\MeshDrawCommands.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\TranslucencyPass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DepthRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ScreenSpaceDenoise.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DynamicPrimitiveDrawing.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\DynamicPrimitiveDrawing.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\TranslucentRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\VolumeRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\LightMapDensityRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\LightMapTexture2D.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/Engine/Classes/VT/VirtualTexture.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\VirtualTexture.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/Renderer/Private/VT/VirtualTextureSpace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VT\VirtualTextureShared.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VT\VirtualTexturePhysicalSpace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VT\TexturePagePool.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/BinaryHeap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VT\TexturePageMap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VT\VirtualTextureAllocator.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\AtmosphereRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\LightPropagationVolume.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ScenePrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SceneCore.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SceneHitProxyRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ShadowRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SystemTextures.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\LightRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands/HairStrandsRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsUtils.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Public\HairStrandsInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsCluster.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVoxelization.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDeepShadow.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsClusters.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsLUT.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsVisibility.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsTransmittance.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsEnvironment.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsComposition.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\HairStrands\HairStrandsDebug.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\LightMapRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\LightMap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VelocityRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\BasePassRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\FogRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VolumetricFog.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PlanarReflectionRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironment.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\MobileBasePassRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\SceneSoftwareOcclusion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RenderCore\Public\VisualizeTexture.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\VolumetricFogShared.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\PrecomputedVolumetricLightmap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/PackedVector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\RayTracing/RaytracingOptions.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\BasePassRendering.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\RenderTargetTemp.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\RendererModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessHMD.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ScreenPass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneFilterRendering.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\ScreenPass.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Renderer\Private\PostProcess\RenderingCompositionGraph.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\GameEngine.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\EngineAnalytics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\AnalyticsET\Public\IAnalyticsProviderET.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsEventAttribute.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsConversion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\AnalyticsET\Public\AnalyticsET.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProvider.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\FontImportOptions.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\FontProviderInterface.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\Font.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\Canvas.generated.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRHQLayerShape.cpp
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes\SteamVRHQLayerShape.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Engine\Classes\Components/StereoLayerComponent.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Engine\StereoLayerComponent.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SteamVR\SteamVRHQLayerShape.generated.h
+E:\Kobayashi-Maru\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Public\SteamVRStereoLayers.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRRender.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanRHIPrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanGlobalUniformBuffer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanPendingState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanPipeline.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanDescriptorSets.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanPipelineState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanContext.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\VulkanRHI\Private\VulkanGPUProfiler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHICommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\Windows/D3D12RHIBasePrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ocidl.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\D3DX12\include\d3dx12.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Util.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12DiskCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12PipelineState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\Windows\../D3D12PipelineState.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Residency.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_6.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_5.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_4.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_3.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_2.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\DirectX\include\dxgitype.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\Windows\D3DX12\include\D3DX12Residency.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12State.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Resources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Public\D3D12ShaderResources.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12RootSignature.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Shader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12View.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandList.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12DirectCommandListManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Viewport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12ConstantBuffer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Query.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12DescriptorCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCachePrivate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandContext.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\delayimp.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Stats.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Device.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.h
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRSpectatorScreen.cpp
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRSplash.cpp
+E:/Kobayashi-Maru/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRStereoLayers.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\HeadMountedDisplay\Public\DefaultXRCamera.h

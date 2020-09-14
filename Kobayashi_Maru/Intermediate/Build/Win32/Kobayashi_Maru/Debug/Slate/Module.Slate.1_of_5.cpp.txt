@@ -1,0 +1,349 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\Slate\Definitions.Slate.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/AnalogCursor.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/AnalogCursor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/IInputProcessor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\InputCore\InputCoreTypes.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateEnums.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/Accessibility/GenericAccessibleInterfaces.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\Margin.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\Geometry.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\Events.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateColor.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\NavigationReply.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Async/Future.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateDebugging.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\RenderingCommon.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\Clipping.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\FlowDirection.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetProxy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\CompositeFont.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateFontInfo.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\FontCache.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateBrush.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering\DrawElementPayloads.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering\SlateRenderBatch.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering\ElementBatcher.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets\InvalidateWidgetReason.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AES.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyle.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateWidgetStyle.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SCompoundWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/SlateTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Sound/SlateSound.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateSound.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\SlateCore\SlateTypes.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\SlateScope.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/GestureDetector.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/IPlatformTextField.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/IPlatformTextField.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Input/IVirtualKeyboardEntry.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\IVirtualKeyboardEntry.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/Menu.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Private\Framework/Application/Menu.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/MenuStack.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutUtils.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\TextLayout.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SPopup.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/NavigationConfig.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/NavigationConfig.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/App.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateApplication.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\InputCore\Public\InputCoreModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Sound/ISlateSoundDevice.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Sound/NullSlateSoundDevice.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/PlatformTextField.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/Windows/WindowsPlatformTextField.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Text/GenericPlatformTextField.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/SWeakWidget.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/SToolTip.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/SWindowTitleBar.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/MetaData/DriverMetaData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Application/IWidgetReflector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/Commands.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandInfo.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\SlateCore\Public\Textures/SlateIcon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\InputChord.generated.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\UICommandInfo.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputBindingManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Private\Framework/Notifications/SlateAsyncTaskNotificationImpl.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreAsyncTaskNotificationImpl.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AsyncTaskNotification.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ITextInputMethodSystem.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Toolbox\Public\ToolboxModule.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabCommands.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateSettings.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\SlateSettings.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\SlateSettings.generated.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateUser.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/Commands.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/GenericCommands.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/InputBindingManager.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/RemoteConfigIni.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/InputChord.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/UIAction.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/UIAction.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandDragDropOp.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandDragDropOp.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/MultiBoxDefs.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\Slate\MultiBoxDefs.generated.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandInfo.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandList.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandList.h

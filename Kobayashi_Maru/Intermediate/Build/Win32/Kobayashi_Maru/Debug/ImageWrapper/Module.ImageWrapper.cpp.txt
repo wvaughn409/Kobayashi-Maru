@@ -1,0 +1,334 @@
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/BmpImageWrapper.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats\BmpImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\ImageWrapperBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Map.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/Set.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Public\BmpImageSupport.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Color.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/TypeWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Axis.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Edge.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/PendingVersions.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Plane.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Range.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Box.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Quat.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float32.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float16.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Transform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/Ray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\ImageWrapper\BmpImageSupport.generated.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Concepts/GetTypeHashable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Field.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/List.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/Event.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/ExrImageWrapper.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats\ExrImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfIO.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfInt64.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathInt64.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathNamespace.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IlmBaseConfig.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfNamespace.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\OpenEXRConfig.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImathBox.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathVec.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathExc.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IexBaseExc.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IexNamespace.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IlmBaseConfig.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IexExport.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathLimits.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathMath.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImathPlatform.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\iostream
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfChannelList.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfName.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfPixelType.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\set
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfInputFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfHeader.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfLineOrder.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfCompression.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfTileDescription.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfForward.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfFrameBuffer.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfTiledOutputFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfThreading.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfGenericOutputFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfVersion.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfXdr.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\IexMathExc.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\half.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\halfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfGenericInputFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\fstream
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfOutputFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfArray.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfStdIO.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfExport.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR/include/ImfRgbaFile.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\openexr\Deploy\OpenEXR-2.3.0\OpenEXR\include\ImfRgba.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/IcnsImageWrapper.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats\IcnsImageWrapper.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/IcoImageWrapper.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats\IcoImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats/PngImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty/zlib/zlib-1.2.5/Inc/zlib.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\zlib\zlib-1.2.5\Inc\zconf.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/png.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libPNG\libPNG-1.5.2\pnglibconf.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libPNG\libPNG-1.5.2\pngconf.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty/libPNG/libPNG-1.5.2/pnginfo.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/JpegImageWrapper.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Private\Formats\JpegImageWrapper.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libJPG\jpgd.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libJPG\jpgd.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libJPG\jpge.h
+E:\Kobayashi-Maru\Engine\Source\ThirdParty\libJPG\jpge.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/Formats/PngImageWrapper.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/ImageWrapperBase.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/ImageWrapper/Private/ImageWrapperModule.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h

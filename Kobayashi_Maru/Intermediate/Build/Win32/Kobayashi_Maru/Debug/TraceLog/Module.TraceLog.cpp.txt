@@ -1,0 +1,288 @@
+E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\TraceLog\Definitions.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Channel.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Build.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\concurrencysal.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Field.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\mmintrin.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\zmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\mm3dnow.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\CoreFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\stdint.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\stdarg.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\new
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\yvals_core.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\exception
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_new_debug.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_new.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\use_ansi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\type_traits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xstddef
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\xtr1common
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\limits.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\initializer_list
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Models.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventDef.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\EventDef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Codec.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4/lz4.c.inl
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Private\Trace\LZ4\lz4.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Control.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\TraceLog\Private\Trace/Platform.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/CString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Detail/Windows/WindowsTrace.cpp
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\qos.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ws2tcpip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ws2ipdef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\in6addr.h
+E:\Kobayashi-Maru\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/EventDef.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Trace.cpp
+E:/Kobayashi-Maru/Engine/Source/Runtime/TraceLog/Private/Trace/Writer.cpp
