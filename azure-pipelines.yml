@@ -14,8 +14,8 @@ pool:
 
 variables:
   solution: 'UE4.sln'
-  buildPlatform: 'Any CPU'
-  buildConfiguration: 'Release'
+  buildPlatform: 'Win64'
+  buildConfiguration: 'Development_Editor'
 
 steps:
 
