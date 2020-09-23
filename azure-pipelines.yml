@@ -15,7 +15,7 @@ pool:
 variables:
   solution: 'UE4.sln'
   buildPlatform: 'Win64'
-  buildConfiguration: 'Development_Editor'
+  buildConfiguration: 'DevelopmentEditor'
 
 steps:
 
