@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'Kobayashi_Maru.sln'
+  solution: 'UE4.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
