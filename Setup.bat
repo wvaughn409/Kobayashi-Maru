@@ -22,10 +22,6 @@ echo #!/bin/sh >.git\hooks\post-merge
 echo Engine/Binaries/DotNET/GitDependencies.exe %* >>.git\hooks\post-merge
 :no_git_hooks_directory
 
-rem Install prerequisites...
-echo Installing prerequisites...
-start /wait Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe /silent
-
 rem Register the engine installation...
 if not exist .\Engine\Binaries\Win64\UnrealVersionSelector-Win64-Shipping.exe goto :no_unreal_version_selector
 .\Engine\Binaries\Win64\UnrealVersionSelector-Win64-Shipping.exe /register
