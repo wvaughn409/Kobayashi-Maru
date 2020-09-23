@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: DEFAULT
-  demands:
+#  demands:
 #  - agent.os -equals Darwin
 #  - anotherCapability -equals somethingElse
 
