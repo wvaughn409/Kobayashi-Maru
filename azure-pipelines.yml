@@ -24,7 +24,7 @@ steps:
 - task: BatchScript@1
   inputs:
     filename: 'Setup.bat'
-    #arguments: # Optional
+    arguments: '-exclude=Linux -exclude=IOS'
     #modifyEnvironment: False # Optional
     #workingFolder: # Optional
     #failOnStandardError: false # Optional
