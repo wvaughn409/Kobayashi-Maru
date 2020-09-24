@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: DEFAULT
+  name: SouthSeattlePool
 #  demands:
 #  - agent.os -equals Darwin
 #  - anotherCapability -equals somethingElse
