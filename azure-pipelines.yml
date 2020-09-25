@@ -6,10 +6,6 @@
 trigger:
 - master
 
-jobs:
-- job: myJob
-  timeoutInMinutes: 0
-
 pool:
   name: SouthSeattlePool
 #  demands:
