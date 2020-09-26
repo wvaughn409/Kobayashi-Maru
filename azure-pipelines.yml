@@ -18,7 +18,7 @@ variables:
   buildConfiguration: 'Development Editor'
 
 jobs:
--job: Build
+- job: Build
   timeoutInMinutes: 0 # how long to run the job before automatically cancelling
   cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
