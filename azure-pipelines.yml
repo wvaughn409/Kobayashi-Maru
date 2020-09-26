@@ -17,41 +17,46 @@ variables:
   buildPlatform: 'Win64'
   buildConfiguration: 'Development Editor'
 
-steps:
+jobs:
+-job: Build
+  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
-# Batch script
-# Run a Windows command or batch script and optionally allow it to change the environment
-- task: BatchScript@1
-  inputs:
-    filename: 'Setup.bat'
-    arguments: '-exclude=Linux -exclude=IOS'
-    #modifyEnvironment: False # Optional
-    #workingFolder: # Optional
-    #failOnStandardError: false # Optional
+  steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
 
-# Batch script
-# Run a Windows command or batch script and optionally allow it to change the environment
-- task: BatchScript@1
-  inputs:
-    filename: 'GenerateProjectFiles.bat'
-    #arguments: # Optional
-    #modifyEnvironment: False # Optional
-    #workingFolder: # Optional
-    #failOnStandardError: false # Optional
+  # Batch script
+  # Run a Windows command or batch script and optionally allow it to change the environment
+  - task: BatchScript@1
+    inputs:
+      filename: 'Setup.bat'
+      arguments: '-exclude=Linux -exclude=IOS'
+      #modifyEnvironment: False # Optional
+      #workingFolder: # Optional
+      #failOnStandardError: false # Optional
 
-- task: NuGetToolInstaller@1
+  # Batch script
+  # Run a Windows command or batch script and optionally allow it to change the environment
+  - task: BatchScript@1
+    inputs:
+      filename: 'GenerateProjectFiles.bat'
+      #arguments: # Optional
+      #modifyEnvironment: False # Optional
+      #workingFolder: # Optional
+      #failOnStandardError: false # Optional
 
-- task: NuGetCommand@2
-  inputs:
-    restoreSolution: '$(solution)'
+  - task: NuGetToolInstaller@1
 
-- task: VSBuild@1
-  inputs:
-    solution: '$(solution)'
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+  - task: NuGetCommand@2
+    inputs:
+      restoreSolution: '$(solution)'
 
-- task: VSTest@2
-  inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+  - task: VSBuild@1
+    inputs:
+      solution: '$(solution)'
+      platform: '$(buildPlatform)'
+      configuration: '$(buildConfiguration)'
+
+  - task: VSTest@2
+    inputs:
+      platform: '$(buildPlatform)'
+      configuration: '$(buildConfiguration)'
