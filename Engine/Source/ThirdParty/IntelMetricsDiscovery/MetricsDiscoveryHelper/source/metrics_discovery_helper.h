@@ -25,7 +25,7 @@ SOFTWARE.
 
 #include <stdint.h>
 #include <windows.h>
-#include "metrics_discovery_api.h"
+#include "..\\..\\..\\Engine\Source\ThirdParty\IntelMetricsDiscovery\MetricsDiscoveryHelper\metrics-discovery\inc\common\instrumentation\api\metrics_discovery_api.h"
 
 #ifdef NDEBUG
 #define MDH_CHECK_CC(_CC) (void) _CC
