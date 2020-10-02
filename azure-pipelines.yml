@@ -17,76 +17,81 @@ variables:
   buildPlatform: 'Win64'
   buildConfiguration: 'Development Editor'
 
-jobs:
+stages:
+- stage: Alpha
+  jobs:
 
 # Extract files
 # Extract a variety of archive and compression files such as .7z, .rar, .tar.gz, and .zip
-- job: A
-  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
-  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
+  - job: A
+    timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+    cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
-  steps:
-  - task: ExtractFiles@1
-    inputs:
-      archiveFilePatterns: '**/Content.zip'
-      destinationFolder: ../Kobayashi_Maru/
-      cleanDestinationFolder: false
+    steps:
+    - task: ExtractFiles@1
+      inputs:
+        archiveFilePatterns: '**/Content.zip'
+        destinationFolder: ../Kobayashi_Maru/
+        cleanDestinationFolder: false
 
-- job: Build
-  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
-  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
+  - job: Build
+    timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+    cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
-  steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
+    steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
 
   # Batch script
   # Run a Windows command or batch script and optionally allow it to change the environment
-  - task: BatchScript@1
-    inputs:
-      filename: 'Setup.bat'
-      arguments: '-exclude=Linux -exclude=IOS'
+    - task: BatchScript@1
+      inputs:
+        filename: 'Setup.bat'
+        arguments: '-exclude=Linux -exclude=IOS'
       #modifyEnvironment: False # Optional
       #workingFolder: # Optional
       #failOnStandardError: false # Optional
 
   # Batch script
   # Run a Windows command or batch script and optionally allow it to change the environment
-  - task: BatchScript@1
-    inputs:
-      filename: 'GenerateProjectFiles.bat'
+    - task: BatchScript@1
+      inputs:
+        filename: 'GenerateProjectFiles.bat'
       #arguments: # Optional
       #modifyEnvironment: False # Optional
       #workingFolder: # Optional
       #failOnStandardError: false # Optional
 
-  - task: NuGetToolInstaller@1
+    - task: NuGetToolInstaller@1
 
-  - task: NuGetCommand@2
-    inputs:
-      restoreSolution: '$(solution)'
+    - task: NuGetCommand@2
+      inputs:
+        restoreSolution: '$(solution)'
 
-  - task: VSBuild@1
-    inputs:
-      solution: '$(solution)'
-      platform: '$(buildPlatform)'
-      configuration: '$(buildConfiguration)'
+    - task: VSBuild@1
+      inputs:
+        solution: '$(solution)'
+        platform: '$(buildPlatform)'
+        configuration: '$(buildConfiguration)'
 
-  - task: VSTest@2
-    inputs:
-      platform: '$(buildPlatform)'
-      configuration: '$(buildConfiguration)'
+    - task: VSTest@2
+      inputs:
+        platform: '$(buildPlatform)'
+        configuration: '$(buildConfiguration)'
 
-- job: B
-  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
-  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
-  steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
-  - task: CmdLine@2
-    inputs:
-      script: "../Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
+- stage: Bravo
+  jobs:
+  - job: B
+    timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+    cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
+
+    steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
+    - task: CmdLine@2
+      inputs:
+        script: "../Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
   
-  - task: CmdLine@2
-    inputs:
-      script: ../Engine/Build/BatchFiles/RunUAT.bat BuildCookRun -project=../Kobayashi_Maru/Kobayashi_Maru.uproject -noP4 -clientconfig=Development -serverconfig=Development -nocompileeditor -ue4exe=../Engine/Binaries/Win64/UE4Editor-Cmd.exe -utf8output -platform=Win64 -build -cook -map=ShapeGeneratorTestMap -unversionedcookedcontent -distribution -compressed -prereqs -stage -package -stagingdirectory=../Kobayashi_Maru/Saved/StagedBuilds/ -cmdline="ShapeGeneratorTestMap -Messaging" -addcmdline="-SessionId=C11C4E7B4067133EA45BC588348DC4A9 -SessionOwner='Ninja6' -SessionName='ADOBuild' " -compile
+    - task: CmdLine@2
+      inputs:
+        script: C:/agent/_work/1/s/Engine/Build/BatchFiles/RunUAT.bat BuildCookRun -project=C:/agent/_work/1/s/Kobayashi_Maru/Kobayashi_Maru.uproject -noP4 -clientconfig=Development -serverconfig=Development -nocompileeditor -ue4exe=C:/agent/_work/1/s/Engine/Binaries/Win64/UE4Editor-Cmd.exe -utf8output -platform=Win64 -build -cook -map=ShapeGeneratorTestMap -unversionedcookedcontent -distribution -compressed -prereqs -stage -package -stagingdirectory=C:/agent/_work/1/s/Kobayashi_Maru/Saved/StagedBuilds/ -cmdline="ShapeGeneratorTestMap -Messaging" -addcmdline="-SessionId=C11C4E7B4067133EA45BC588348DC4A9 -SessionOwner='Ninja6' -SessionName='ADOBuild' " -compile
 
 
 
