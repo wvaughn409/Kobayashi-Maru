@@ -75,3 +75,19 @@ jobs:
       platform: '$(buildPlatform)'
       configuration: '$(buildConfiguration)'
 
+- job: B
+  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
+
+  steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
+  - task: CmdLine@2
+    inputs:
+      script: "../Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
+  
+  - task: CmdLine@2
+    inputs:
+      script: ../Engine/Build/BatchFiles/RunUAT.bat BuildCookRun -project=../Kobayashi_Maru/Kobayashi_Maru.uproject -noP4 -clientconfig=Development -serverconfig=Development -nocompileeditor -ue4exe=../Engine/Binaries/Win64/UE4Editor-Cmd.exe -utf8output -platform=Win64 -build -cook -map=ShapeGeneratorTestMap -unversionedcookedcontent -distribution -compressed -prereqs -stage -package -stagingdirectory=../Kobayashi_Maru/Saved/StagedBuilds/ -cmdline="ShapeGeneratorTestMap -Messaging" -addcmdline="-SessionId=C11C4E7B4067133EA45BC588348DC4A9 -SessionOwner='Ninja6' -SessionName='ADOBuild' " -compile
+
+
+
+
