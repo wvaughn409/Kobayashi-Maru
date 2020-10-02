@@ -73,7 +73,7 @@ stages:
 
     - task: CmdLine@2
       inputs:
-        script: "../Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
+        script: "C:/agent/_work/1/s/Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
   
     - task: CmdLine@2
       inputs:
