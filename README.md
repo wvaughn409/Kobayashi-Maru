@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wvaughn4/Chips_n_Salsa/_apis/build/status/wvaughn409.Kobayashi-Maru?branchName=master)](https://dev.azure.com/wvaughn4/Chips_n_Salsa/_build/latest?definitionId=8&branchName=master)
 Unreal Engine
 =============
 
