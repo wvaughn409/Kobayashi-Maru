@@ -1,8 +1,0 @@
-E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Debug\ScreenShotComparisonTools\Definitions.ScreenShotComparisonTools.h
-E:/Kobayashi-Maru/Kobayashi_Maru/Intermediate/Build/Win32/Kobayashi_Maru/Inc/ScreenShotComparisonTools/ImageComparer.gen.cpp
-E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Kobayashi-Maru\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-E:\Kobayashi-Maru\Engine\Source\Developer\ScreenShotComparisonTools/Public/ImageComparer.h
-E:\Kobayashi-Maru\Kobayashi_Maru\Intermediate\Build\Win32\Kobayashi_Maru\Inc\ScreenShotComparisonTools\ImageComparer.generated.h
-E:/Kobayashi-Maru/Kobayashi_Maru/Intermediate/Build/Win32/Kobayashi_Maru/Inc/ScreenShotComparisonTools/ScreenShotComparisonTools.init.gen.cpp

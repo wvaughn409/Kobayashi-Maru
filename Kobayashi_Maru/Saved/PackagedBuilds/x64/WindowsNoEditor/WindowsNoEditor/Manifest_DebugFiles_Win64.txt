@@ -1,3 +1,0 @@
-Kobayashi_Maru/Binaries/Win64/Kobayashi_Maru.pdb	2020-09-13T13:16:16.523Z
-Engine/Content/SlateDebug/Fonts/LastResort.tps	2020-09-11T10:34:22.568Z
-Engine/Content/SlateDebug/Fonts/LastResort.ttf	2020-09-11T10:37:05.256Z
