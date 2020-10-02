@@ -28,17 +28,11 @@ stages:
     cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
 
     steps:
-    - task: ExtractFiles@1
+    - task: PowerShell@2
       inputs:
-        archiveFilePatterns: '**/Content.zip'
-        destinationFolder: ../Kobayashi_Maru/
-        cleanDestinationFolder: false
-
-  - job: Build
-    timeoutInMinutes: 0 # how long to run the job before automatically cancelling
-    cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
-
-    steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
+        targetType: 'filePath'
+        filePath: $(System.DefaultWorkingDirectory)\test2.ps1
+        arguments: > # Use this to avoid newline characters in multiline string
 
   # Batch script
   # Run a Windows command or batch script and optionally allow it to change the environment
@@ -77,14 +71,6 @@ stages:
         platform: '$(buildPlatform)'
         configuration: '$(buildConfiguration)'
 
-
-- stage: Bravo
-  jobs:
-  - job: B
-    timeoutInMinutes: 0 # how long to run the job before automatically cancelling
-    cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
-
-    steps:  #Here the job will execute all the instructions given on the steps inside the job, applying the defined time out.
     - task: CmdLine@2
       inputs:
         script: "../Engine/Build/BatchFiles/GenerateProjectFiles.bat %~dp0/Kobayashi_Maru.uproject"
