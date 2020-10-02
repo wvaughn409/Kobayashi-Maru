@@ -18,6 +18,20 @@ variables:
   buildConfiguration: 'Development Editor'
 
 jobs:
+
+# Extract files
+# Extract a variety of archive and compression files such as .7z, .rar, .tar.gz, and .zip
+- job: A
+  timeoutInMinutes: 0 # how long to run the job before automatically cancelling
+  cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
+
+  steps:
+  - task: ExtractFiles@1
+    inputs:
+      archiveFilePatterns: '**/Content.zip'
+      destinationFolder: ../Kobayashi_Maru/
+      cleanDestinationFolder: false
+
 - job: Build
   timeoutInMinutes: 0 # how long to run the job before automatically cancelling
   cancelTimeoutInMinutes: 2 # how much time to give 'run always even if cancelled tasks' before stopping them
@@ -60,3 +74,4 @@ jobs:
     inputs:
       platform: '$(buildPlatform)'
       configuration: '$(buildConfiguration)'
+
