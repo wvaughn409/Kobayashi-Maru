@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CompleteRPG",
+			"Path": "E:\\zw\\Zweihander\\Source\\CompleteRPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CompleteRPGEditor",
+			"Path": "E:\\zw\\Zweihander\\Source\\CompleteRPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

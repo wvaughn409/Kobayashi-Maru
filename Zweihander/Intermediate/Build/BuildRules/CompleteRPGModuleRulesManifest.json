@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"E:\\zw\\Zweihander\\Source\\CompleteRPG\\CompleteRPG.Build.cs",
+		"E:\\zw\\Zweihander\\Source\\CompleteRPGEditor\\CompleteRPGEditor.Build.cs",
+		"E:\\zw\\Zweihander\\Plugins\\ArticyImporter\\Source\\ArticyEditor\\ArticyEditor.Build.cs",
+		"E:\\zw\\Zweihander\\Plugins\\ArticyImporter\\Source\\ArticyRuntime\\ArticyRuntime.Build.cs",
+		"E:\\zw\\Zweihander\\Plugins\\NoesisGUI\\Source\\Noesis\\Noesis.Build.cs",
+		"E:\\zw\\Zweihander\\Plugins\\NoesisGUI\\Source\\NoesisEditor\\NoesisEditor.Build.cs",
+		"E:\\zw\\Zweihander\\Plugins\\NoesisGUI\\Source\\NoesisRuntime\\NoesisRuntime.Build.cs",
+		"E:\\zw\\Zweihander\\Source\\CompleteRPG.Target.cs",
+		"E:\\zw\\Zweihander\\Source\\CompleteRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

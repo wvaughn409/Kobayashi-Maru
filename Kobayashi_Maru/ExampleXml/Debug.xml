@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Root>
-  <Debug>
-    <IsVR Value="0"/>
-    <IsSteam Value="0"/>
-    <CMD Value="r.SetRes 1400x900w"/>
-  </Debug>
-</Root>

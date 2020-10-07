@@ -1,0 +1,22 @@
+{
+  "title": "Snap Flow Builder",
+  "layout": "Details",
+  "desc": "Design the flow of your dungeon using graph grammars and stitch together existing room prefabs",
+  "image": "detail/sample_snap",
+  "actions": [
+    {
+      "type": "Video",
+      "path": "https://www.youtube.com/watch?v=woKkR6P_sHY"
+    },
+	{
+      "type": "LauncherURL",
+	  "path": "https://coderespawn.github.io/dungeon-architect-snap-map-user-guide-ue4/#introduction",
+	  "title": "Download Game Demo",
+	  "width": 72
+    },
+	{
+      "type": "Documentation",
+	  "path": ""
+    }
+  ]
+}

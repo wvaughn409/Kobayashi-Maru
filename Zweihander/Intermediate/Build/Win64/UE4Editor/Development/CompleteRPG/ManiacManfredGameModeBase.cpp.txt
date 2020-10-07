@@ -1,0 +1,2 @@
+E:\zw\Zweihander\Source\CompleteRPG\ManiacManfredGameModeBase.h
+E:\zw\Zweihander\Intermediate\Build\Win64\UE4Editor\Inc\CompleteRPG\ManiacManfredGameModeBase.generated.h

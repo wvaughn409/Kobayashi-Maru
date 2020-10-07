@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "StickyNotes",
+	"Description": "Easily add Sticky Notes in your level",
+	"Category": "Helpers",
+	"CreatedBy": "DreamPowered",
+	"CreatedByURL": "https://twitter.com/firefly74940",
+	"DocsURL": "http://www.firefly.dream-powered.com/StickyNotesDoc/index.html",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/29a0614549e149989ab0808172f864c9",
+	"SupportURL": "mailto:marketplace.support@dream-powered.com",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "StickyNotes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}

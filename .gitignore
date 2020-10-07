@@ -230,4 +230,5 @@ Saved/
 Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 
 # Add exceptions for project files
-!/Kobayashi_Maru/*
+!/Zweihander/*
+!/Zweihander/Content/*

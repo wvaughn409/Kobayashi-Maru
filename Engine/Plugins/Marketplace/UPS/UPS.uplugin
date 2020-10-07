@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AI Patrol & Action System",
+	"Description": "AI Patrol & Action System",
+	"Category": "AI",
+	"CreatedBy": "Rim2812",
+	"CreatedByURL": "https://www.linkedin.com/in/rim2812/",
+	"DocsURL": "https://docs.google.com/document/d/1UOmFFeqAXXgJcJuLAcR8zZO4Er06dDskCkKB-Ly6uzo/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/50c9d843ba5e4387862865800bb62cde",
+	"SupportURL": "rim2812@gmail.com",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PatrolActionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"PS4",
+				"XboxOne",
+				"Switch",
+				"IOS",
+				"Android"
+			]
+		},
+		{
+			"Name": "PatrolActionSystemEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux",
+				"Mac",
+				"PS4",
+				"XboxOne",
+				"Switch",
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}

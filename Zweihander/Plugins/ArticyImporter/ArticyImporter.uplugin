@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "ArticyImporter",
+	"Description": "Importer and interface for articy:draft.",
+	"Category": "Articy",
+	"CreatedBy": "articy Software GmbH & Co. KG",
+	"CreatedByURL": "https://www.articy.com",
+	"DocsURL": "https://github.com/ArticySoftware/ArticyImporterForUnreal/blob/master/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/16208606a3f84c9a880c2edffd533ec8",
+	"SupportURL": "https://www.articy.com/en/support/",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ArticyRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android"
+			]
+		},
+		{
+			"Name": "ArticyEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}

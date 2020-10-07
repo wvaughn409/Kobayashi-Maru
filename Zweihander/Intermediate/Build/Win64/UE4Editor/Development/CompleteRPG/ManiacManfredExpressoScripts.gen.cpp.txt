@@ -1,0 +1,46 @@
+E:\zw\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\zw\Zweihander\Source\CompleteRPG/ArticyGenerated/ManiacManfredExpressoScripts.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime/Public/ArticyExpressoScripts.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyObject.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyPrimitive.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyRef.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyBaseTypes.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyHelpers.h
+E:\zw\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+E:\zw\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\zw\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+E:\zw\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyBaseTypes.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyRef.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyBaseObject.h
+E:\zw\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+E:\zw\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+E:\zw\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+E:\zw\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\Interfaces/ArticyReflectable.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyReflectable.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyBaseObject.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyPrimitive.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyObject.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyDatabase.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ShadowStateManager.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ShadowStateManager.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyPackage.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyPackage.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyDatabase.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyExpressoScripts.generated.h
+E:\zw\Zweihander\Source\CompleteRPG\ArticyGenerated\ManiacManfredGlobalVariables.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime/Public/ArticyGlobalVariables.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyRuntimeModule.h
+E:\zw\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+E:\zw\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+E:\zw\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+E:\zw\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+E:\zw\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\ARFilter.generated.h
+E:\zw\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Intermediate\Build\Win64\UE4Editor\Inc\ArticyRuntime\ArticyGlobalVariables.generated.h
+E:\zw\Zweihander\Intermediate\Build\Win64\UE4Editor\Inc\CompleteRPG\ManiacManfredGlobalVariables.generated.h
+E:\zw\Zweihander\Intermediate\Build\Win64\UE4Editor\Inc\CompleteRPG\ManiacManfredExpressoScripts.generated.h
