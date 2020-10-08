@@ -232,3 +232,6 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 # Add exceptions for project files
 !/Zweihander/Content/**
 !/Engine/Plugins/Marketplace/Substance/Libs/**
+!/Engine/Plugins/Marketplace/Substance/Binaries/**
+!/Engine/Plugins/Marketplace/Substance/Content/**
+!/Engine/Plugins/Marketplace/Substance/Resources/**
