@@ -238,6 +238,6 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 !/Engine/Plugins/Marketplace/Substance/Content/**
 !/Engine/Plugins/Marketplace/Substance/Resources/**
 !/Zweihander/Build/Windows/**
-!/Zweihander/Plugins/Marketplace/ArticyImporter/Resources/**
+!/Zweihander/Plugins/ArticyImporter/Resources/**
 !/Engine/Plugins/Marketplace/UPS/Content/**
 !/Engine/Plugins/Marketplace/StickyNotes/Content/**
