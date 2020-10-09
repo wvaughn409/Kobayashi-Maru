@@ -164,6 +164,7 @@
 
 # Add exceptions for 7zip
 !/7z.exe
+!/7z.dll
 
 # Ignore the automatically created mono symlink
 /Engine/Binaries/ThirdParty/Mono/Linux/bin/mono
@@ -236,3 +237,4 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 !/Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/**
 !/Engine/Plugins/Marketplace/Substance/Content/**
 !/Engine/Plugins/Marketplace/Substance/Resources/**
+!/Zweihander/Build/Windows/**
