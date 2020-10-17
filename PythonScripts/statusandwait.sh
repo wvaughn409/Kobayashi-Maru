@@ -1,4 +1,4 @@
 #! /bin/bash
 cd /e/zw/PythonScripts
-git status
+git status -u
 read -p "Press enter to continue"
