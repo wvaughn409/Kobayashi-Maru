@@ -35,7 +35,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{91BF9C0F-5A93-4DAA-AC00-6E8F65C0DBEB}</ProjectGuid>
+    <ProjectGuid>{CA05F11E-E5E8-4520-A75D-94E41365F37C}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UnrealWatchdog</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

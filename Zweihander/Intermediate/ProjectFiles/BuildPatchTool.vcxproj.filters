@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\..\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{FC32F3CF-862F-4CE6-A231-750146992B8D}</UniqueIdentifier>
+      <UniqueIdentifier>{30D53A30-A55F-4CAA-BF48-57A91BE6E2AC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
@@ -11,7 +11,7 @@
     <None Include="..\..\..\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
     <None Include="..\..\..\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{0AB19503-16EB-407B-B436-63946C428422}</UniqueIdentifier>
+      <UniqueIdentifier>{918C9BA5-3B60-42F9-BCD9-4008FD7267A3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
       <Filter>Private</Filter>
@@ -20,7 +20,7 @@
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\ToolModes">
-      <UniqueIdentifier>{AF187577-E521-4601-8EA9-C1710260708A}</UniqueIdentifier>
+      <UniqueIdentifier>{DB5AB17B-28F1-45A2-9645-CDF4EFD1BDC0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
       <Filter>Private\ToolModes</Filter>
@@ -50,19 +50,19 @@
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{C45C86C4-1257-48D9-9971-50457B59B65C}</UniqueIdentifier>
+      <UniqueIdentifier>{D5AD69EB-A589-45AF-ACE8-54D9F7357F69}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
       <Filter>Public</Filter>
     </ClInclude>
     <Filter Include="Public\Interfaces">
-      <UniqueIdentifier>{0F813D9E-58EB-4478-A435-4036E265DED7}</UniqueIdentifier>
+      <UniqueIdentifier>{5B2B869D-DDE0-4AAC-8C31-AE41FE91F65C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
       <Filter>Public\Interfaces</Filter>
     </ClInclude>
     <Filter Include="Public\ToolModes">
-      <UniqueIdentifier>{4DBA28B2-E189-4E85-9C71-7CABEECD3FD8}</UniqueIdentifier>
+      <UniqueIdentifier>{66BA66DD-AEBF-4EFD-924E-0E670C175E84}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
       <Filter>Public\ToolModes</Filter>

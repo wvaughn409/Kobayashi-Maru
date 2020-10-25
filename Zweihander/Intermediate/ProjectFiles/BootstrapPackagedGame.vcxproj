@@ -59,7 +59,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{97D2C4CD-31CD-4234-BBF8-86CD18985160}</ProjectGuid>
+    <ProjectGuid>{3AA878AA-B572-403F-9A64-852479D19105}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>BootstrapPackagedGame</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

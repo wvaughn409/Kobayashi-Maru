@@ -3,14 +3,14 @@
   <ItemGroup>
     <None Include="..\..\..\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F86E14E4-95CE-4EBE-A8C2-ECD5CEF08EC9}</UniqueIdentifier>
+      <UniqueIdentifier>{BFA22469-9DFB-44D7-9CE2-F2C8BE7E421F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Programs\UnrealRecoverySvc\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\..\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{5DBB22D9-2DEE-4704-8DD0-FD79B42E0C79}</UniqueIdentifier>
+      <UniqueIdentifier>{7B65BE6A-614D-4708-98C4-C2A0B1C315F0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\UnrealRecoverySvc\Private\UnrealRecoverySvc.cpp">
       <Filter>Private</Filter>

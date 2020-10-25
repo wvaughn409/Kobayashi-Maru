@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\BlankProgram\BlankProgram.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\BlankProgram\BlankProgram.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{941CFE3D-097E-41AC-842D-8B843DCE9B3A}</UniqueIdentifier>
+      <UniqueIdentifier>{0DCA3075-0B15-4E2D-A5F9-930A4FEC400B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\BlankProgram\Private\BlankProgram.cpp">
       <Filter>Private</Filter>
@@ -13,10 +13,10 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{DD0980EC-DADF-47E4-9B97-949D8E7CD070}</UniqueIdentifier>
+      <UniqueIdentifier>{329C508E-671F-449E-A553-A0104C1C3FD3}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{FFB9E7B9-0844-4047-9128-2710060C8B73}</UniqueIdentifier>
+      <UniqueIdentifier>{C6F2F8AA-20B5-445E-AC82-E889995F5DBC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\BlankProgram\Resources\Windows\BlankProgram.ico">
       <Filter>Resources\Windows</Filter>

@@ -59,7 +59,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9041462B-1789-48A8-8394-7E62C425F5A1}</ProjectGuid>
+    <ProjectGuid>{0479BDAD-49E0-43E0-8D24-02C60480D58E}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>CrashReportClientEditor</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

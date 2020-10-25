@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\LiveCodingConsole\LiveCodingConsole.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\LiveCodingConsole\LiveCodingConsole.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{36911749-92F0-46B1-8A9A-AD9526523D66}</UniqueIdentifier>
+      <UniqueIdentifier>{F3368CB5-2969-4A43-A8D1-C605A655B996}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\LiveCodingConsole\Private\LiveCodingConsole.cpp">
       <Filter>Private</Filter>

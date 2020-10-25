@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AEA7BA30-7633-4491-84EC-E2C54ED54A25}</ProjectGuid>
+    <ProjectGuid>{665F0701-481E-4FB2-8158-91DFECCD3719}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UnrealPak</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

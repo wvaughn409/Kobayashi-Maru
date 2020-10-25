@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\UnrealPak\UnrealPak.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\UnrealPak\UnrealPak.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{FA2EBAAD-5A79-4AA0-8195-8FD8954FDC8F}</UniqueIdentifier>
+      <UniqueIdentifier>{0B5764AC-F53A-4583-B2B9-DD671AF9CA03}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\UnrealPak\Private\UnrealPak.cpp">
       <Filter>Private</Filter>

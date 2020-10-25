@@ -4,16 +4,16 @@
     <None Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\UE4EditorServices.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{98FA54A5-524A-44FA-9169-4E0C14D7E696}</UniqueIdentifier>
+      <UniqueIdentifier>{1AC3D10A-8E68-4C46-B5B6-E01A1AA8BBBB}</UniqueIdentifier>
     </Filter>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{77ABB168-782D-4616-882A-AF0C015AA4C1}</UniqueIdentifier>
+      <UniqueIdentifier>{8E81438E-470E-499B-B11C-65B63ACB1CC4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\Private\Linux\UE4EditorServicesMain.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{94FC5DDB-6F9D-4243-B238-D895BE8DB0A4}</UniqueIdentifier>
+      <UniqueIdentifier>{52A4D573-233D-4CEB-83E7-9B1D0F5A63C6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\Private\Mac\UE4EditorServicesAppDelegate.cpp">
       <Filter>Private\Mac</Filter>
@@ -25,16 +25,16 @@
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{93750FC2-9CAB-4980-9FFC-57283C653733}</UniqueIdentifier>
+      <UniqueIdentifier>{0211C9E7-9C12-41A1-A4CE-F3A494C68E52}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\Private\Windows\UE4EditorServicesMain.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
     <Filter Include="Resources">
-      <UniqueIdentifier>{9265187B-264F-40A5-A3D3-CB3ED004DD1C}</UniqueIdentifier>
+      <UniqueIdentifier>{67872937-3B0F-44EC-A6CF-42735DA29EDC}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Mac">
-      <UniqueIdentifier>{28017CC2-6558-4338-AE14-05A0D9BEB0F6}</UniqueIdentifier>
+      <UniqueIdentifier>{A736FD59-6D28-4499-AB55-B7FBD372CCE8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Mac\UE4EditorServices\Resources\Mac\Info.plist">
       <Filter>Resources\Mac</Filter>

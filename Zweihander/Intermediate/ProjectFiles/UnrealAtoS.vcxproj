@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7C90A395-9F61-4E9B-B282-3AADA34427E3}</ProjectGuid>
+    <ProjectGuid>{62743756-E8D3-4AD4-ADC2-EC96E6F9A4AA}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UnrealAtoS</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

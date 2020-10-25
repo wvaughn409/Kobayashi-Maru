@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\TestPAL\TestPAL.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\TestPAL\TestPAL.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{865EA8F1-6C8B-49F8-AFCA-F132563D7BF5}</UniqueIdentifier>
+      <UniqueIdentifier>{89C965AB-31CB-49B1-886F-15BB451699EE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\TestPAL\Private\Main.cpp">
       <Filter>Private</Filter>

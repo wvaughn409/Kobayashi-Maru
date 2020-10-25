@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{79AF662A-A87C-43FB-8F94-307E3A77538E}</ProjectGuid>
+    <ProjectGuid>{54279EB8-7541-4EE1-9DC8-C5D8C81F2E50}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithSketchUp2017</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

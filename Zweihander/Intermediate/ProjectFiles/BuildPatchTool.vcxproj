@@ -59,7 +59,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{67A57DE0-2197-4B9B-BD80-EE7E1D944B9E}</ProjectGuid>
+    <ProjectGuid>{9D460E6B-480A-4487-BDBC-317667810348}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>BuildPatchTool</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

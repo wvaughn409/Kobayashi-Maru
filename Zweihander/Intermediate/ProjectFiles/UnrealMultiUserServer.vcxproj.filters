@@ -3,14 +3,14 @@
   <ItemGroup>
     <None Include="..\..\..\Engine\Source\Programs\UnrealMultiUserServer\UnrealMultiUserServer.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C41FDF79-5FBF-419E-AF56-B1C1D0F8E461}</UniqueIdentifier>
+      <UniqueIdentifier>{51E3E515-4ABF-4176-A994-F3E74EB69E2A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Programs\UnrealMultiUserServer\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\..\Engine\Source\Programs\UnrealMultiUserServer\UnrealMultiUserServer.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{A9AAB486-196F-4B78-B84E-7C66AFB8C0C6}</UniqueIdentifier>
+      <UniqueIdentifier>{CDA8F0BA-6131-4BA9-867D-0463CC652E9E}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\UnrealMultiUserServer\Private\UnrealMultiUserServer.cpp">
       <Filter>Private</Filter>

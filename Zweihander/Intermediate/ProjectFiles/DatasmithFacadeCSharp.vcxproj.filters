@@ -6,7 +6,7 @@
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithFacadeCSharp\DatasmithFacadeCSharp.i" />
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithFacadeCSharp\ReadMe.txt" />
     <Filter Include="Private">
-      <UniqueIdentifier>{FBB1D670-2ADC-4749-B4A4-29A5A1BBDE03}</UniqueIdentifier>
+      <UniqueIdentifier>{2856431A-C2F5-403E-9F91-422E055568B4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithFacadeCSharp\Private\DatasmithFacadeCSharp.cpp">
       <Filter>Private</Filter>
@@ -18,7 +18,7 @@
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{C6939154-9F50-4711-BF7A-2DBD314FAA98}</UniqueIdentifier>
+      <UniqueIdentifier>{DE723B1C-4791-4D3B-9124-68EAE4D3F5E5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithFacadeCSharp\Public\DatasmithFacadeCSharp.cs">
       <Filter>Public</Filter>
