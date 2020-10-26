@@ -21,7 +21,7 @@ namespace ArticyHelpers
 #define JSON_SECTION_PACKAGES TEXT("Packages")
 #define JSON_SECTION_HIERARCHY TEXT("Hierarchy")
 
-/** Creates a new FJsonObject with name "x" from json->GetObjectField("x") */
+	/** Creates a new FJsonObject with name "x" from json->GetObjectField("x") */
 #define JSON_OBJECT(json, x) TSharedPtr<FJsonObject> x = json->GetObjectField(TEXT(#x))
 /** Tries to get the object with name "x" and if it's an object, executes body. */
 #define JSON_TRY_OBJECT(json, x, body) static_assert(!std::is_const<decltype(x)>::value, #x " is const!"); \
@@ -93,7 +93,7 @@ namespace ArticyHelpers
 
 	inline FVector2D ParseFVector2DFromJson(const TSharedPtr<FJsonValue> Json)
 	{
-		if(!Json.IsValid() || !ensure(Json->Type == EJson::Object))
+		if (!Json.IsValid() || !ensure(Json->Type == EJson::Object))
 			return FVector2D{};
 
 		double X = 0, Y = 0;
@@ -107,7 +107,7 @@ namespace ArticyHelpers
 
 	inline FLinearColor ParseColorFromJson(const TSharedPtr<FJsonValue> Json)
 	{
-		if(!Json.IsValid() || !ensure(Json->Type == EJson::Object))
+		if (!Json.IsValid() || !ensure(Json->Type == EJson::Object))
 			return FLinearColor{};
 
 		double R, G, B, A = 1.0;
@@ -121,5 +121,4 @@ namespace ArticyHelpers
 		return FLinearColor{ static_cast<float>(R), static_cast<float>(G), static_cast<float>(B), static_cast<float>(A) };
 	}
 }
-
 
