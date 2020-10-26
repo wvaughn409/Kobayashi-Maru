@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "Paper2DClasses.h"
-#include "../../Plugins/ArticyImporter/Source/ArticyRuntime/Public/ArticyBaseInclude.h"
+#include "E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyBaseInclude.h"
 #include "ArticyGenerated/ManiacManfredArticyTypes.h"
 #include "LocationGenerator.generated.h"
 

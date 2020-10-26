@@ -8,13 +8,12 @@
 UCLASS(Blueprintable)
 class UFlockAnimInstance : public UAnimInstance
 {
-	GENERATED_BODY()
+	GENERATED_UCLASS_BODY()
 
 	virtual void NativeInitializeAnimation() override;
 	virtual void NativeUpdateAnimation(float DeltaSeconds) override;
 
 public:
-	UFlockAnimInstance();
 	bool ShouldBolt180() const;
 	bool ShouldBolt90() const;
 	bool ShouldBolt180Running() const;

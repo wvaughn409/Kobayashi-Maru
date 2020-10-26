@@ -27,7 +27,8 @@ namespace FlockAnimInstanceConstants
 	static const FName TrotState(TEXT("Trot"));
 //}
 
-UFlockAnimInstance::UFlockAnimInstance()
+UFlockAnimInstance::UFlockAnimInstance(const FObjectInitializer& ObjectInitializer)
+	: Super(ObjectInitializer)
 {
 	RunThreshold = 150.0f;
 	TurnThreshold = 80.0f;
