@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{534F15D0-BBC7-4327-B214-E7B894920001}</ProjectGuid>
+    <ProjectGuid>{45ED5A52-01C1-4700-BDDC-FD5C0E3C27D6}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>ShaderCompileWorker</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

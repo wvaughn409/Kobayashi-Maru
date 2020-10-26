@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\DatasmithSDK.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\DatasmithSDK.Build.cs" />
     <Filter Include="Documentation">
-      <UniqueIdentifier>{AA2DE0BA-6344-4867-A041-630EB9E70282}</UniqueIdentifier>
+      <UniqueIdentifier>{84F18E4B-6BA8-4061-BB57-7A756E526FD7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\1.Welcome.md">
       <Filter>Documentation</Filter>
@@ -19,7 +19,7 @@
       <Filter>Documentation</Filter>
     </None>
     <Filter Include="Documentation\build">
-      <UniqueIdentifier>{94DBB449-1010-4CA7-A1EF-1C7A1E771671}</UniqueIdentifier>
+      <UniqueIdentifier>{BF3341BC-91DF-4473-AD06-E30555D01644}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\DatasmithSDK_config.txt">
       <Filter>Documentation\build</Filter>
@@ -40,7 +40,7 @@
       <Filter>Documentation\build</Filter>
     </None>
     <Filter Include="Documentation\build\output">
-      <UniqueIdentifier>{335D7F04-B47B-4BEF-B2C1-AF282406FAC2}</UniqueIdentifier>
+      <UniqueIdentifier>{481E3910-514F-4D3F-9036-BEFC42F7399C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\output\Datasmith SDK Documentation.html">
       <Filter>Documentation\build\output</Filter>
@@ -49,7 +49,7 @@
       <Filter>Documentation\build\output</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{8E1409E7-0BDB-433D-B666-9BFC2A176BE6}</UniqueIdentifier>
+      <UniqueIdentifier>{E9F0A110-D362-4392-BA4F-7CB8F09D7DFB}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Private\DatasmithSDK.cpp">
       <Filter>Private</Filter>

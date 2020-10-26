@@ -4,37 +4,37 @@
     <None Include="..\..\..\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{2D5F98D2-EC35-45A1-880D-885AF197EF2D}</UniqueIdentifier>
+      <UniqueIdentifier>{3280C86C-7277-4DC1-BD70-1860206A7886}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\IOS">
-      <UniqueIdentifier>{F337B6BC-77D0-4B7A-AB1A-60D267356B0F}</UniqueIdentifier>
+      <UniqueIdentifier>{9E92EBF1-D3E3-460C-AC29-9D7ECE4B79E5}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
       <Filter>Private\IOS</Filter>
     </ClCompile>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{C49E9E03-37FC-4D79-8912-0E95BEBD72CF}</UniqueIdentifier>
+      <UniqueIdentifier>{59B17B0F-E321-47A8-B16B-6A3F76F341CE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{82A8DB08-34B0-48CE-A455-46F728575607}</UniqueIdentifier>
+      <UniqueIdentifier>{AA030729-4460-4262-8DBC-FBA55289A551}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{50BD020D-E02B-4FCC-B6B4-6CA2CFC65E90}</UniqueIdentifier>
+      <UniqueIdentifier>{14E6672D-DEE9-4C15-964E-BFBCB9C15307}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{3DA2552A-2832-43F6-9881-077B19445604}</UniqueIdentifier>
+      <UniqueIdentifier>{C064B7F1-C063-4AF8-9EBF-E6253EF08347}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
       <Filter>Public</Filter>

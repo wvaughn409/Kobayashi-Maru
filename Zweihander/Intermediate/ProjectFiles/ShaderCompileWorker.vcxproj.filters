@@ -3,20 +3,20 @@
   <ItemGroup>
     <None Include="..\..\..\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{9BADCF8F-2E4C-4578-9FB7-CC84220F1E97}</UniqueIdentifier>
+      <UniqueIdentifier>{F84026D3-F02E-4CCD-ABA9-1143A3634E34}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{EB699673-80E5-43E7-ACC7-A4BB32C0AC53}</UniqueIdentifier>
+      <UniqueIdentifier>{0FDEC631-7ACD-4920-8C05-96E3EF7B5515}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <None Include="..\..\..\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{8A016F26-0B37-48C2-AB93-DAD3E975886E}</UniqueIdentifier>
+      <UniqueIdentifier>{260D66F3-6B86-44D5-AFBA-F28E0AD60932}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
       <Filter>Private</Filter>

@@ -4,19 +4,19 @@
     <None Include="..\..\..\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\Mac\DsymExporter\DsymExporter.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{C43338B6-F19B-41C7-A2DD-4A3002CA91C8}</UniqueIdentifier>
+      <UniqueIdentifier>{1A619673-AA47-45A7-B414-3852A04E3BEC}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Mac\DsymExporter\Private\DsymExporterApp.cpp">
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{D81A99D4-8F4B-4EE7-8F7E-6B5B74BFC7E9}</UniqueIdentifier>
+      <UniqueIdentifier>{8A689F29-C90B-48D7-B9E4-0A68C29E8659}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Mac\DsymExporter\Private\Mac\DsymExporterMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{6F2DC49E-6ADE-4AAF-9CC1-0FD3FAD9508B}</UniqueIdentifier>
+      <UniqueIdentifier>{54995A9B-5B18-467C-A764-CF5957315622}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\Mac\DsymExporter\Public\DsymExporterApp.h">
       <Filter>Public</Filter>

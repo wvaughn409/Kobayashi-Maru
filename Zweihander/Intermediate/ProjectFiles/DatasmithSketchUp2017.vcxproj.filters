@@ -8,7 +8,7 @@
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2020.Build.cs" />
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUpExporter.def" />
     <Filter Include="Installer">
-      <UniqueIdentifier>{54B99CBE-B64E-4492-9F66-8E6FADF6B1EA}</UniqueIdentifier>
+      <UniqueIdentifier>{B5C9A0C8-A539-44E3-AE56-6B34E028E8B3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomActions.wxs">
       <Filter>Installer</Filter>
@@ -38,13 +38,13 @@
       <Filter>Installer</Filter>
     </None>
     <Filter Include="Installer\Localization">
-      <UniqueIdentifier>{6322CE82-A55C-4584-A8EE-D67438434CE1}</UniqueIdentifier>
+      <UniqueIdentifier>{D1C46A66-0D41-4AD3-B3FC-504C37FB6163}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Localization\en-us.wxl">
       <Filter>Installer\Localization</Filter>
     </None>
     <Filter Include="Installer\Resources">
-      <UniqueIdentifier>{E1AACC47-67EA-4461-9CC1-523D777F7783}</UniqueIdentifier>
+      <UniqueIdentifier>{2B620B6A-B81B-4DC4-9857-00AC3E2BDA79}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Banner.bmp">
       <Filter>Installer\Resources</Filter>
@@ -74,13 +74,13 @@
       <Filter>Installer\Resources</Filter>
     </None>
     <Filter Include="Installer\Resources\Images">
-      <UniqueIdentifier>{BB2E8C16-A46F-4A0B-8F8F-DD0BD52B0FE9}</UniqueIdentifier>
+      <UniqueIdentifier>{D1BBE95A-22E0-4D61-B4C2-5CEBDE54E706}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
       <Filter>Installer\Resources\Images</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\Background">
-      <UniqueIdentifier>{26ACBA9A-439C-4FCE-9718-5B13B87EDC6A}</UniqueIdentifier>
+      <UniqueIdentifier>{EB9356EC-CA30-491C-BAA4-5D5ECA293539}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\28190.bmp">
       <Filter>Installer\Resources\Images\Background</Filter>
@@ -98,7 +98,7 @@
       <Filter>Installer\Resources\Images\Background</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\General">
-      <UniqueIdentifier>{9B201FB0-85B4-410F-BD33-89C92B7BCD87}</UniqueIdentifier>
+      <UniqueIdentifier>{86C460C1-8E8B-4FEC-8C71-98E5284FAF64}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\General\banner.bmp">
       <Filter>Installer\Resources\Images\General</Filter>
@@ -107,7 +107,7 @@
       <Filter>Installer\Resources\Images\General</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{4F739A62-5592-496F-B671-5E0D12C6E80F}</UniqueIdentifier>
+      <UniqueIdentifier>{9E910302-4F84-4985-9887-57A19C0DAED7}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpAFXDialogs.cpp">
       <Filter>Private</Filter>
@@ -191,10 +191,10 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{7023F45E-19EC-44CB-AC4F-6F1770B1B243}</UniqueIdentifier>
+      <UniqueIdentifier>{3D227881-215E-4EAA-B0BB-9DB2E3DB7A8A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{EBBA587E-9266-4C6B-9BDC-3C9CC4EE1E20}</UniqueIdentifier>
+      <UniqueIdentifier>{09713256-EBBE-4820-B1BF-87AAEFF70657}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Resources\Windows\resource.h">
       <Filter>Resources\Windows</Filter>
