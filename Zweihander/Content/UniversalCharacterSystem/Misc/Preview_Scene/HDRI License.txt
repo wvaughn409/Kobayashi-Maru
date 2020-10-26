@@ -1,5 +1,0 @@
-HDRI files are licensed as CC0.
-
-They were obtained from https://hdrihaven.com/
-
-https://hdrihaven.com/p/license.php
