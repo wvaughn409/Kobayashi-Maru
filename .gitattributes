@@ -1,2 +1,10 @@
 Zweihander/Content/Megascans/Surfaces/Castle_Stone_Wall_2x2_M_00/tbhoajkr_8K_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
 Zweihander/Content/Megascans/Surfaces/Castle_Stone_Wall_2x2_M_00/tbhoajkr_8K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a01_01_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a03_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a05_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a06_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a07_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a08_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/STF/IR/Textures/Rocks/T_boulder_a14_ro.uasset filter=lfs diff=lfs merge=lfs -text
+Zweihander/Content/Schooner_Hannah/textures/crate_01_Normal.uasset filter=lfs diff=lfs merge=lfs -text
