@@ -4,7 +4,7 @@
     <None Include="..\..\..\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Target.cs" />
     <None Include="..\..\..\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{597E3F61-ECBB-450A-B90E-67BFF804D780}</UniqueIdentifier>
+      <UniqueIdentifier>{B6F9DF5C-244F-4918-B98E-7D12873620F8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\Engine\Source\Programs\BenchmarkTool\Private\BenchmarkTool.cpp">
       <Filter>Private</Filter>
@@ -13,10 +13,10 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{57883A10-B175-4A44-8693-48928EDBCD36}</UniqueIdentifier>
+      <UniqueIdentifier>{8E9B73BA-60BE-4B2E-A495-6BC403A6B9E3}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{E7ECB812-5BAF-4CC4-912C-71CB0B742060}</UniqueIdentifier>
+      <UniqueIdentifier>{8847B54E-1EAD-4B4F-B869-004FEAA7D70E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\Engine\Source\Programs\BenchmarkTool\Resources\Windows\BenchmarkTool.ico">
       <Filter>Resources\Windows</Filter>

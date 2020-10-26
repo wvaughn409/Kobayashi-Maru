@@ -46,7 +46,7 @@ public: \
 
 #define Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UFlockAnimInstance(const FObjectInitializer& ObjectInitializer); \
+	NO_API UFlockAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFlockAnimInstance) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFlockAnimInstance); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFlockAnimInstance); \
@@ -58,6 +58,8 @@ public:
 
 
 #define Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFlockAnimInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UFlockAnimInstance(UFlockAnimInstance&&); \
@@ -65,7 +67,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFlockAnimInstance); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFlockAnimInstance); \
-	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFlockAnimInstance)
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFlockAnimInstance)
 
 
 #define Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_PRIVATE_PROPERTY_OFFSET
@@ -90,7 +92,7 @@ public: \
 	Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
 	Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_INCLASS_NO_PURE_DECLS \
 	Zweihander_Source_CompleteRPG_Public_FlockAnimInstance_h_11_ENHANCED_CONSTRUCTORS \
-private: \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class FlockAnimInstance."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 

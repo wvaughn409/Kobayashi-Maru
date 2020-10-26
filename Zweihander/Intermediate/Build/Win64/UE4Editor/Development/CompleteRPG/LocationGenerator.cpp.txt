@@ -54,7 +54,7 @@ E:\zw\Engine\Plugins\2D\Paper2D\Source\Paper2D/Classes/PaperTileSet.h
 E:\zw\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperTileSet.generated.h
 E:\zw\Engine\Plugins\2D\Paper2D\Source\Paper2D/Classes/TileMapBlueprintLibrary.h
 E:\zw\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\TileMapBlueprintLibrary.generated.h
-E:\zw\Zweihander\Source\CompleteRPG\../../Plugins/ArticyImporter/Source/ArticyRuntime/Public/ArticyBaseInclude.h
+E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyBaseInclude.h
 E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyAsset.h
 E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyObject.h
 E:\zw\Zweihander\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyPrimitive.h

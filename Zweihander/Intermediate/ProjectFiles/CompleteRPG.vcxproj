@@ -267,7 +267,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D375F772-0732-49BE-B942-2B07E8E5B363}</ProjectGuid>
+    <ProjectGuid>{600C4C38-1C3C-4FD4-875E-C007EB5EA0C9}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>CompleteRPG</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

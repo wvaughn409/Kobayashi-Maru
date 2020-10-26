@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CompleteRPG.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7BB9388C-C37E-4A98-BDA4-264FEC847839}</UniqueIdentifier>
+      <UniqueIdentifier>{A0E5BB66-3659-496C-A2A8-664553B9171B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CompleteRPG.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CB755941-0306-4B88-936F-1A88C4A7222A}</UniqueIdentifier>
+      <UniqueIdentifier>{28DA38AC-837F-4EB0-A76A-2FE36990E660}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -39,7 +39,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Localization">
-      <UniqueIdentifier>{833FACFA-15CD-4C6D-9643-C1814B706516}</UniqueIdentifier>
+      <UniqueIdentifier>{CBDEAE86-D275-481C-A3D6-98F62CA49318}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Localization\Game_Compile.ini">
       <Filter>Config\Localization</Filter>
@@ -51,22 +51,22 @@
       <Filter>Config\Localization</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{844DDA62-FF59-4FFB-9693-443FAE3A4EF9}</UniqueIdentifier>
+      <UniqueIdentifier>{9C498D98-1CB7-4B86-8A8F-6024F3742D25}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\ArticyImporter">
-      <UniqueIdentifier>{662489E3-477E-42CE-87F3-8881BA324ED8}</UniqueIdentifier>
+      <UniqueIdentifier>{CD5CCA66-745A-477E-BF25-55EA3601F7E0}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\ArticyImporter\Source">
-      <UniqueIdentifier>{C3AFE847-B829-4514-8149-1B3AEA7BCA51}</UniqueIdentifier>
+      <UniqueIdentifier>{DB5D7FA1-3A43-4019-A55F-D75C52810D1A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor">
-      <UniqueIdentifier>{F66681EC-B44A-4242-ABE2-1A97938501D1}</UniqueIdentifier>
+      <UniqueIdentifier>{51A34072-CF60-4551-BD65-C7B6C37E61E7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\ArticyEditor.Build.cs">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Private">
-      <UniqueIdentifier>{9930D2A8-619A-420C-A2D5-93692D5374CF}</UniqueIdentifier>
+      <UniqueIdentifier>{24EB5333-26D4-43E2-BB1D-B8B62B374694}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Private\ArticyEditorCommands.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private</Filter>
@@ -96,7 +96,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Private\CodeGeneration">
-      <UniqueIdentifier>{773731A0-5938-41D1-9B47-084558491950}</UniqueIdentifier>
+      <UniqueIdentifier>{52013C7A-4817-4F34-95C5-7D5FB280E1C4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Private\CodeGeneration\CodeFileGenerator.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\CodeGeneration</Filter>
@@ -147,7 +147,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\CodeGeneration</Filter>
     </ClInclude>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Private\Customizations">
-      <UniqueIdentifier>{6CFC70E2-3DD1-4BB9-94E9-2A6632D5CB78}</UniqueIdentifier>
+      <UniqueIdentifier>{C542EED6-F7B2-430B-A924-9F916DB96D8C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Private\Customizations\ArticyPluginSettingsCustomization.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Customizations</Filter>
@@ -156,7 +156,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Customizations</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate">
-      <UniqueIdentifier>{19D826EF-A97D-4679-B3BF-CC9E7C3406A9}</UniqueIdentifier>
+      <UniqueIdentifier>{D0B49190-B454-42A4-ACAA-74A413604846}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate\SArticyRefProperty.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate</Filter>
@@ -168,7 +168,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate\AssetPicker">
-      <UniqueIdentifier>{A55853DC-258E-47FD-8AF9-76CF693778A7}</UniqueIdentifier>
+      <UniqueIdentifier>{10EFDDFC-FE91-45BA-9E7B-AFF8AAA51C44}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate\AssetPicker\ArticyObjectFilterHelpers.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate\AssetPicker</Filter>
@@ -183,7 +183,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Private\Slate\AssetPicker</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Public">
-      <UniqueIdentifier>{9421D1D2-5DA1-46C1-93BB-6B5D49FDA7B1}</UniqueIdentifier>
+      <UniqueIdentifier>{A5810A40-E4A0-48DA-B594-A29CF36E7D66}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Public\ArticyEditorCommands.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public</Filter>
@@ -219,7 +219,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Public\Customizations">
-      <UniqueIdentifier>{E3A27C42-8A4D-4E47-8B8E-11F0BD358CE3}</UniqueIdentifier>
+      <UniqueIdentifier>{D2391657-44DC-4C5A-B399-98C27F11AFB3}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Public\Customizations\ArticyPluginSettingsCustomization.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public\Customizations</Filter>
@@ -228,7 +228,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public\Customizations</Filter>
     </ClInclude>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate">
-      <UniqueIdentifier>{A95A1E69-E107-47CE-8C1E-87D84BA373E5}</UniqueIdentifier>
+      <UniqueIdentifier>{FAAD0C17-C073-47F9-AA7D-8B1E14122AEC}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate\SArticyRefProperty.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate</Filter>
@@ -240,7 +240,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate</Filter>
     </ClInclude>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate\AssetPicker">
-      <UniqueIdentifier>{87B99CCA-8479-4A60-957D-2A0DAAAB67A1}</UniqueIdentifier>
+      <UniqueIdentifier>{943D06EC-EC15-477C-A538-C50518248E09}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate\AssetPicker\ArticyObjectFilterHelpers.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyEditor\Public\Slate\AssetPicker</Filter>
@@ -258,7 +258,7 @@
       <Filter>Plugins\ArticyImporter</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources">
-      <UniqueIdentifier>{8E26B186-B7E3-4BA7-8CF1-52EC2ADDA564}</UniqueIdentifier>
+      <UniqueIdentifier>{9682E007-E0C5-404F-BC28-BA71BB7E2B71}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\ArticyDraft16.png">
       <Filter>Plugins\ArticyImporter\Resources</Filter>
@@ -297,7 +297,7 @@
       <Filter>Plugins\ArticyImporter\Resources</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\128">
-      <UniqueIdentifier>{EB4F1061-0866-49E7-8E2D-45E4F537D306}</UniqueIdentifier>
+      <UniqueIdentifier>{2B2EB66E-89F2-44F9-A90F-258C68AF210F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\128\actorsfolder.png">
       <Filter>Plugins\ArticyImporter\Resources\128</Filter>
@@ -489,7 +489,7 @@
       <Filter>Plugins\ArticyImporter\Resources\128</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\14">
-      <UniqueIdentifier>{B55D71BA-9FE6-484F-8E3A-82AAA0604957}</UniqueIdentifier>
+      <UniqueIdentifier>{C079C519-A2C5-4C18-8ECE-CC932A07661C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\14\actorsfolder.png">
       <Filter>Plugins\ArticyImporter\Resources\14</Filter>
@@ -648,13 +648,13 @@
       <Filter>Plugins\ArticyImporter\Resources\14</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\16">
-      <UniqueIdentifier>{9F30235F-4E4D-4542-B8CF-6E9A6CD92BFE}</UniqueIdentifier>
+      <UniqueIdentifier>{886EA05C-F007-4024-BBF5-636DA78A07DE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\16\ArticyApplication_Asset.png">
       <Filter>Plugins\ArticyImporter\Resources\16</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\256">
-      <UniqueIdentifier>{3A15DB04-F4A0-4344-AD49-47E5136E8B04}</UniqueIdentifier>
+      <UniqueIdentifier>{D77E10E4-87E4-4BF0-9952-DF623BE22E80}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\256\path.png">
       <Filter>Plugins\ArticyImporter\Resources\256</Filter>
@@ -663,19 +663,19 @@
       <Filter>Plugins\ArticyImporter\Resources\256</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\48">
-      <UniqueIdentifier>{51FE1662-5BD3-4E76-96E5-FAEC271EDF32}</UniqueIdentifier>
+      <UniqueIdentifier>{5D2F0FF3-C616-493A-9537-AD89BB859EB6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\48\application.png">
       <Filter>Plugins\ArticyImporter\Resources\48</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\7">
-      <UniqueIdentifier>{50185FDE-08EA-4AA4-8A56-98EB3BA4B1B0}</UniqueIdentifier>
+      <UniqueIdentifier>{B6089281-ACD3-4A29-A821-C3168ACF6EBE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\7\browse_button.png">
       <Filter>Plugins\ArticyImporter\Resources\7</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Resources\ArticyWindow">
-      <UniqueIdentifier>{62CF3F40-D7DC-4BB3-8FE9-72A26FF16122}</UniqueIdentifier>
+      <UniqueIdentifier>{C5800522-A65A-429F-B33B-7B53227B5343}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Resources\ArticyWindow\Button_FullReimport.png">
       <Filter>Plugins\ArticyImporter\Resources\ArticyWindow</Filter>
@@ -714,16 +714,16 @@
       <Filter>Plugins\ArticyImporter\Resources\ArticyWindow</Filter>
     </None>
     <Filter Include="Plugins\NoesisGUI">
-      <UniqueIdentifier>{2CF5B89C-E4F3-42C3-B509-37F45BA6C374}</UniqueIdentifier>
+      <UniqueIdentifier>{8B2A71C0-BB09-4EB9-BE14-4CD518B21162}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NoesisGUI\NoesisGUI.uplugin">
       <Filter>Plugins\NoesisGUI</Filter>
     </None>
     <Filter Include="Plugins\NoesisGUI\Shaders">
-      <UniqueIdentifier>{CF3737B3-5EEA-4EE6-895D-1F607DF3476C}</UniqueIdentifier>
+      <UniqueIdentifier>{3D17C32D-D707-4040-9E4D-1A677D18C786}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\NoesisGUI\Shaders\Private">
-      <UniqueIdentifier>{C9E2E3A9-2955-4FD4-861A-8D083821F413}</UniqueIdentifier>
+      <UniqueIdentifier>{93469C81-EA27-4282-9DB3-39BC6AE97001}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NoesisGUI\Shaders\Private\NoesisPS.usf">
       <Filter>Plugins\NoesisGUI\Shaders\Private</Filter>
@@ -732,13 +732,13 @@
       <Filter>Plugins\NoesisGUI\Shaders\Private</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyRuntime">
-      <UniqueIdentifier>{A3806DF0-6902-4352-AB55-BEDE9C598F6E}</UniqueIdentifier>
+      <UniqueIdentifier>{B09E5D46-3AA5-466F-8E4E-D6025B3C274F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\ArticyImporter\Source\ArticyRuntime\ArticyRuntime.Build.cs">
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime</Filter>
     </None>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyRuntime\Private">
-      <UniqueIdentifier>{8DB5D011-481B-49FE-95F7-6BB7F6C67471}</UniqueIdentifier>
+      <UniqueIdentifier>{BF98E4AD-A13F-4BB0-9AA4-C01BD312FA63}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyRuntime\Private\ArticyAsset.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Private</Filter>
@@ -795,7 +795,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyRuntime\Private\Interfaces">
-      <UniqueIdentifier>{1A1C2D08-EE0C-4AD8-9F90-494BA904F4E0}</UniqueIdentifier>
+      <UniqueIdentifier>{2AFB6372-8168-4B8C-89D3-0518FE635F8D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\ArticyImporter\Source\ArticyRuntime\Private\Interfaces\ArticyNode.cpp">
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Private\Interfaces</Filter>
@@ -804,7 +804,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Private\Interfaces</Filter>
     </ClCompile>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyRuntime\Public">
-      <UniqueIdentifier>{AD6C706E-2E12-4E60-A366-ED53FAA66111}</UniqueIdentifier>
+      <UniqueIdentifier>{E535570C-7D14-48B6-81C9-901DD0A31600}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyRuntime\Public\ArticyAsset.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Public</Filter>
@@ -876,7 +876,7 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\ArticyImporter\Source\ArticyRuntime\Public\Interfaces">
-      <UniqueIdentifier>{4096A051-C6EB-42B8-8144-99B24B030ED1}</UniqueIdentifier>
+      <UniqueIdentifier>{A5263579-33D3-4EFC-B38E-E23704BB6F0C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\ArticyImporter\Source\ArticyRuntime\Public\Interfaces\ArticyConditionProvider.h">
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Public\Interfaces</Filter>
@@ -951,10 +951,10 @@
       <Filter>Plugins\ArticyImporter\Source\ArticyRuntime\Public\Interfaces</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source">
-      <UniqueIdentifier>{E81756A6-F58E-4608-8793-70D8BAF2BA72}</UniqueIdentifier>
+      <UniqueIdentifier>{3470C1A6-DAF1-48A0-A162-C39258A37386}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\NoesisGUI\Source\Noesis">
-      <UniqueIdentifier>{F9D2048C-541D-49F0-AAB6-72D16F04C3C8}</UniqueIdentifier>
+      <UniqueIdentifier>{959DE7E7-B764-469A-B117-9EE8A5F6ADDF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NoesisGUI\Source\Noesis\Noesis.Build.cs">
       <Filter>Plugins\NoesisGUI\Source\Noesis</Filter>
@@ -966,13 +966,13 @@
       <Filter>Plugins\NoesisGUI\Source\Noesis</Filter>
     </None>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisEditor">
-      <UniqueIdentifier>{9719ABB2-B30B-48A0-A0FA-E3172F84EAE1}</UniqueIdentifier>
+      <UniqueIdentifier>{547D2B84-EF25-498E-84AA-E2971B3D8736}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NoesisGUI\Source\NoesisEditor\NoesisEditor.Build.cs">
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor</Filter>
     </None>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisEditor\Classes">
-      <UniqueIdentifier>{00640468-CF78-4FEC-8277-CF77126FA2F0}</UniqueIdentifier>
+      <UniqueIdentifier>{54249EF6-6D1D-4E77-B8BB-FBC1A92F2F97}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\NoesisGUI\Source\NoesisEditor\Classes\K2Node_NoesisAssignAndNotify.h">
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor\Classes</Filter>
@@ -990,7 +990,7 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisEditor\Private">
-      <UniqueIdentifier>{7832E0FC-DEEA-4B20-9192-226E747FD86F}</UniqueIdentifier>
+      <UniqueIdentifier>{4F4B194D-F916-4D0A-AF37-2D0C5B8094E5}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\NoesisGUI\Source\NoesisEditor\Private\K2Node_NoesisAssignAndNotify.cpp">
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor\Private</Filter>
@@ -1104,19 +1104,19 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor\Private</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisEditor\Public">
-      <UniqueIdentifier>{A58D07AF-E017-4AA8-B2E5-69BA7D1F9522}</UniqueIdentifier>
+      <UniqueIdentifier>{F4056F76-D19A-461C-B027-3990028B48D0}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\NoesisGUI\Source\NoesisEditor\Public\NoesisEditorModule.h">
       <Filter>Plugins\NoesisGUI\Source\NoesisEditor\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisRuntime">
-      <UniqueIdentifier>{B268F42D-25F5-4640-863C-98308694CD2F}</UniqueIdentifier>
+      <UniqueIdentifier>{155246F9-A407-476B-A726-4BC5D1AAC82A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\NoesisGUI\Source\NoesisRuntime\NoesisRuntime.Build.cs">
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime</Filter>
     </None>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisRuntime\Classes">
-      <UniqueIdentifier>{32147D18-2D4F-42BD-A545-08527E2C5E24}</UniqueIdentifier>
+      <UniqueIdentifier>{15EB9F96-0253-4B97-8F43-26B9FE8A3401}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\NoesisGUI\Source\NoesisRuntime\Classes\NoesisBaseComponent.h">
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Classes</Filter>
@@ -1149,7 +1149,7 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisRuntime\Private">
-      <UniqueIdentifier>{CD45A902-D545-4D33-B288-91C9436BB6BB}</UniqueIdentifier>
+      <UniqueIdentifier>{78165756-C118-406C-873F-443D42C4C6A1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\NoesisGUI\Source\NoesisRuntime\Private\NoesisBaseComponent.cpp">
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Private</Filter>
@@ -1200,7 +1200,7 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisRuntime\Private\Render">
-      <UniqueIdentifier>{668192F6-BF93-4DE7-B882-67FD1A629856}</UniqueIdentifier>
+      <UniqueIdentifier>{4BCC7732-7821-4E7C-B68D-36715433A883}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\NoesisGUI\Source\NoesisRuntime\Private\Render\NoesisRenderDevice.cpp">
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Private\Render</Filter>
@@ -1215,7 +1215,7 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Private\Render</Filter>
     </ClInclude>
     <Filter Include="Plugins\NoesisGUI\Source\NoesisRuntime\Public">
-      <UniqueIdentifier>{F3234C71-7A76-4B87-810A-E29F2E1127C0}</UniqueIdentifier>
+      <UniqueIdentifier>{EE8EE306-389F-46CC-9A31-C21334AF69B0}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\NoesisGUI\Source\NoesisRuntime\Public\NoesisRuntime.h">
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Public</Filter>
@@ -1230,7 +1230,7 @@
       <Filter>Plugins\NoesisGUI\Source\NoesisRuntime\Public</Filter>
     </ClInclude>
     <Filter Include="Source\CompleteRPG">
-      <UniqueIdentifier>{35879666-665A-4888-95C7-FE3CC8B826DC}</UniqueIdentifier>
+      <UniqueIdentifier>{E90CF57C-6E92-4AC5-BC9A-60D44AC7E48D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CompleteRPG\CompleteRPG.Build.cs">
       <Filter>Source\CompleteRPG</Filter>
@@ -1260,7 +1260,7 @@
       <Filter>Source\CompleteRPG</Filter>
     </ClInclude>
     <Filter Include="Source\CompleteRPG\ArticyGenerated">
-      <UniqueIdentifier>{B0D373D5-440D-4856-BCFB-EBFB6B7B88E3}</UniqueIdentifier>
+      <UniqueIdentifier>{6E535141-A01E-40B0-8CB1-93E763F6EFCF}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\CompleteRPG\ArticyGenerated\ManiacManfredArticyTypes.h">
       <Filter>Source\CompleteRPG\ArticyGenerated</Filter>
@@ -1278,7 +1278,7 @@
       <Filter>Source\CompleteRPG\ArticyGenerated</Filter>
     </ClInclude>
     <Filter Include="Source\CompleteRPG\Private">
-      <UniqueIdentifier>{D531F518-1949-415C-A017-EE879E900C2C}</UniqueIdentifier>
+      <UniqueIdentifier>{4B2E2DC3-7498-4247-8698-692D59A0D3AD}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CompleteRPG\Private\AmbientEffectManager.cpp">
       <Filter>Source\CompleteRPG\Private</Filter>
@@ -1356,7 +1356,7 @@
       <Filter>Source\CompleteRPG\Private</Filter>
     </ClCompile>
     <Filter Include="Source\CompleteRPG\Public">
-      <UniqueIdentifier>{1C1C8795-ACE0-4D85-A0F8-AA6A7F07E342}</UniqueIdentifier>
+      <UniqueIdentifier>{6BD975EC-A8E2-46FE-958D-D983483667E8}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\CompleteRPG\Public\AmbientEffectManager.h">
       <Filter>Source\CompleteRPG\Public</Filter>
@@ -1431,22 +1431,22 @@
       <Filter>Source\CompleteRPG\Public</Filter>
     </ClInclude>
     <Filter Include="Source\CompleteRPG\Resources">
-      <UniqueIdentifier>{7075E9B4-2454-4E61-9753-E76E87CC1DED}</UniqueIdentifier>
+      <UniqueIdentifier>{0AE7E8A1-A5E7-42FF-BDFF-CA211C6D99A8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\CompleteRPG\Resources\Windows">
-      <UniqueIdentifier>{CCEFF301-B27F-4AFE-A504-34F84192753A}</UniqueIdentifier>
+      <UniqueIdentifier>{6C6D178D-8391-40E7-AA61-64B328A9083B}</UniqueIdentifier>
     </Filter>
     <ResourceCompile Include="..\..\Source\CompleteRPG\Resources\Windows\CompleteRPG.rc">
       <Filter>Source\CompleteRPG\Resources\Windows</Filter>
     </ResourceCompile>
     <Filter Include="Source\CompleteRPGEditor">
-      <UniqueIdentifier>{3BC5F657-0B37-4C5D-A21B-EE5858B318C0}</UniqueIdentifier>
+      <UniqueIdentifier>{A8A16657-BF2B-49DD-ADEC-57C972A0DEB4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CompleteRPGEditor\CompleteRPGEditor.Build.cs">
       <Filter>Source\CompleteRPGEditor</Filter>
     </None>
     <Filter Include="Source\CompleteRPGEditor\Private">
-      <UniqueIdentifier>{9D79781B-A967-40E2-8DC6-C6E6BB44D1C8}</UniqueIdentifier>
+      <UniqueIdentifier>{7DA0947B-5A3A-4296-8E7C-DA0943148A27}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CompleteRPGEditor\Private\CompleteRPGEditor.cpp">
       <Filter>Source\CompleteRPGEditor\Private</Filter>
@@ -1464,7 +1464,7 @@
       <Filter>Source\CompleteRPGEditor\Private</Filter>
     </ClInclude>
     <Filter Include="Source\CompleteRPGEditor\Public">
-      <UniqueIdentifier>{E2C0DDBC-6AE4-4A5E-A5A8-9475DB653450}</UniqueIdentifier>
+      <UniqueIdentifier>{09155C40-8B22-486C-9546-73E70AF1FF65}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\CompleteRPGEditor\Public\CompleteRPGEditor.h">
       <Filter>Source\CompleteRPGEditor\Public</Filter>
